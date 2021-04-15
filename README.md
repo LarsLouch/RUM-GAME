@@ -1,6 +1,4 @@
-# Red Runner
-
-RedRunner, Awesome Platformer Game.
+# RUMM GAMER
 
 
 
